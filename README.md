@@ -1,2 +1,2 @@
 # cloud-with-gcp
-Everything with Google cloud platform 
+Everything with Google cloud platform. Compute, Storage, CI/CD, ....!
