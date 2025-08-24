@@ -1,2 +1,2 @@
-# Learn-gcp
-Learning google cloud platform
+# cloud-with-gcp
+Everything with Google cloud platform 
