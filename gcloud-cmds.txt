@@ -1,1 +1,19 @@
-list the active account name : --> gcloud auth list
+list the active account name : 
+
+--> gcloud auth list
+
+list the project ID with this command:
+
+--> gcloud config list project
+
+To reset password and chnage user name :
+
+--> gcloud compute reset-windows-password [instance] --zone us-central1-c --user [username]
+
+To see whether the server instance is ready for an RDP connection : 
+
+--> gcloud compute instances get-serial-port-output [instance] --zone=us-central1-c
+
+Set the region for your project:
+
+--> gcloud config set compute/region us-east4
